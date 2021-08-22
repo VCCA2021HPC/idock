@@ -7,7 +7,7 @@ This master branch is under development and not ready for production release. Pl
 idock
 =====
 
-idock is a multithreaded [virtual screening] tool for flexible ligand [docking] for computational drug discovery. It is inspired by [AutoDock Vina], and is hosted by GitHub at https://GitHub.com/HongjianLi/idock under [Apache License 2.0]. idock is now available as a service at [istar].
+idock is a multithreaded [virtual screening] tool for flexible ligand [docking] for computational drug discovery. It is inspired by [AutoDock Vina], and is hosted by GitHub at https://GitHub.com/HongjianLi/idock under [Apache License 2.0].
 
 
 Features
@@ -238,10 +238,9 @@ Logo
 [docking]: http://en.wikipedia.org/wiki/Docking_(molecular)
 [AutoDock Vina]: http://vina.scripps.edu
 [Apache License 2.0]: http://www.apache.org/licenses/LICENSE-2.0
-[istar]: http://istar.cse.cuhk.edu.hk/idock
 [Boost C++ Libraries]: http://www.boost.org
 [doxygen]: http://www.doxygen.org
 [semantic versioning]: http://semver.org
 [CodePlex]: http://idock.codeplex.com
 [DOI: 10.1109/CIBCB.2012.6217214]: http://dx.doi.org/10.1109/CIBCB.2012.6217214
-[Jacky Lee]: http://www.cse.cuhk.edu.hk/~hjli
+[Jacky Lee]: https://github.com/HongjianLi
